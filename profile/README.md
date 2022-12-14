@@ -1,4 +1,4 @@
-![Enable coupon payments at WooCommerce stores](https://github.com/libersave/.github/blob/trunk/images/woocommerce_plugin.png)
+![Enable coupon payments at WooCommerce stores](https://github.com/libersave/.github/blob/master/images/woocommerce_plugin.png)
 
 # About
 
